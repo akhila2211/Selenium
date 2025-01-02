@@ -19,7 +19,7 @@ public class Serialization {
 		
 		//getting response code
 		System.out.println(res.getStatusCode());
-		
+		System.out.println("updated");
 		
 		//validating
 		res.then().assertThat().statusCode(201);
