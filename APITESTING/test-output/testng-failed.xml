@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="restassured.Basictest9dec">
+      <class name="pojo.Deserialization">
         <methods>
-          <include name="getdetails"/>
+          <include name="deerializationEx"/>
         </methods>
-      </class> <!-- restassured.Basictest9dec -->
+      </class> <!-- pojo.Deserialization -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

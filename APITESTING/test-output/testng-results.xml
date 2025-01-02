@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-09T17:00:26 IST" name="Default suite" finished-at="2024-12-09T17:00:30 IST" duration-ms="4026">
+  <suite started-at="2024-12-31T15:57:28 IST" name="Default suite" finished-at="2024-12-31T15:57:42 IST" duration-ms="13816">
     <groups>
     </groups>
-    <test started-at="2024-12-09T17:00:26 IST" name="Default test" finished-at="2024-12-09T17:00:30 IST" duration-ms="4026">
-      <class name="restassured.Basictest9dec">
-        <test-method signature="getdetails()[pri:0, instance:restassured.Basictest9dec@550dbc7a]" started-at="2024-12-09T17:00:26 IST" name="getdetails" finished-at="2024-12-09T17:00:30 IST" duration-ms="3948" status="PASS">
+    <test started-at="2024-12-31T15:57:28 IST" name="Default test" finished-at="2024-12-31T15:57:42 IST" duration-ms="13816">
+      <class name="pojo231dec.Mappojo">
+        <test-method signature="usingpostmap()[pri:0, instance:pojo231dec.Mappojo@49049a04]" started-at="2024-12-31T15:57:28 IST" name="usingpostmap" finished-at="2024-12-31T15:57:42 IST" duration-ms="13765" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getdetails -->
-      </class> <!-- restassured.Basictest9dec -->
+        </test-method> <!-- usingpostmap -->
+      </class> <!-- pojo231dec.Mappojo -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
